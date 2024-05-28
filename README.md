@@ -1,6 +1,6 @@
 # navigation_drawer
 
-A new Flutter project.
+flutter basic navigation drawer 
 
 ## Getting Started
 
